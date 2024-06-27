@@ -1,4 +1,4 @@
-👋 Hi, I’m Kyuhyeok Park and I am a Backend developer based on Seoul, Korea
+👋 Hi, I’m Kyuhyeok Park and I am a Backend developer based in Seoul, Korea
 
 - 👀 I’m interested in developing applications that enrich our lives.
 - 🌱 I’m currently learning Unit Testing. I am interested in developing sustainable applications.
